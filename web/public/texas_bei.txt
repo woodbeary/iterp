@@ -1,0 +1,40 @@
+Board for Evaluation of Interpreters (BEI) Registry [ Log On ]
+Public Interpreter Registry
+First Name: 
+Last Name: 
+County: 
+Zip Code: 
+Certificate Type: 
+Status: 
+Search  Reset  Close
+Records Returned: 2153
+Interpreter Name	Phone Number	Level(s)
+Certificate Issuance Date	City	State	Status	Expiration Date
+Toni Abadi		Advanced
+6/2/2008	AUSTIN	TX	Active	6/30/2023
+Heather Aber	(832)928-0847	Basic
+6/6/2024	MAGNOLIA	TX	Active	6/6/2025
+Muriel Anne Ables		Level III, Court Interpreter
+4/14/1993	FORT WORTH	TX	Active	1/31/2025
+Marnie Abrahams		Basic
+3/15/2010	HEWITT	TX	Active	5/3/2025
+Robin L. Abrams	(940)206-9726	Level II
+9/21/2004	BOYD	TX	Active	9/30/2024
+Paige M. Abshire	(979)218-7533	Level III
+4/2/2001	HAMSHIRE	TX	Active	4/30/2025
+Hannah Acay	(281)682-1730	Basic
+11/6/2019	KYLE	TX	Active	11/6/2025
+Luz Acosta		Level I
+5/28/1999	EL PASO	TX	Active	5/31/2025
+Karen Acosta	(832)206-6415	Basic
+1/8/2024	SAN ANTONIO	TX	Active	1/8/2025
+JaNae Acquard	(713)298-5734	Level IV, Court Interpreter
+1/1/2002	LIBERTY HILL	TX	Active	6/30/2025
+Holly Adair	(512)970-2710	Basic
+9/27/2023	SAN ANTONIO	TX	Active	9/27/2025
+Melanie Price Adams		Basic
+12/17/2009	HOUSTON	TX	Active	12/31/2024
+Aaryn Adams	(585)201-6002	Master, Court Interpreter
+12/28/2023	CYPRESS	TX	Active	9/17/2025
+Ashley Adams	(740)678-0645	Basic
+6/19/2018	FLEMING	OH	Active	6/19/2025
