@@ -13,7 +13,7 @@ To empower the Deaf community by providing a seamless platform for connecting wi
   - Maintain high standards of accessibility and security.
   - Generate sustainable revenue through subscriptions and advertisements without burdening users with transaction fees.
 
-# Progress Made
+# Progress Made so far
 
 - **Idea Pivot:** Shifted focus from building a comprehensive Uber-like platform to a more streamlined service catering specifically to Deaf events.
 - **Data Collection:** Identified and gathered interpreter lists from RID (`texas_bei.txt` and `texas_rid.txt`).
